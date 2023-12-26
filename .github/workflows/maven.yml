@@ -19,7 +19,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    permissons:
+    permissions:
       pull-requests: 'write'
 
 
